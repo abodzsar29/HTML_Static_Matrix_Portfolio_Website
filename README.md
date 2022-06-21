@@ -1,3 +1,5 @@
+Andrew Bodzsar - 06.2020
+
 Matrix themed Portfolio Website Project - NOTE: THE WEBSITE IS ONLY OPTIMISED FOR 1920 * 1080 RESOLUTION
 
 This repository contains all of the source files which I utilised to make my first portfolio website showcasing my web development skills with a hands-on product.
